@@ -1,7 +1,6 @@
-This repo contains the contributions that I made to Open-Source projects
-
 # Open-Source contributions
 
+This repo contains my contributions to Open-Source projects that other developers created.
 
 | Month      | Repository                                      | Issues                                                   | Pull Requests                                    |
 |------------|-------------------------------------------------|----------------------------------------------------------|--------------------------------------------------|
